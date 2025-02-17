@@ -1,4 +1,4 @@
-#CoffeeShopExcelApp
+
 This project describes the development of an online coffee shop application, "Chill Coffee," built using Microsoft Excel, VBA (Visual Basic for Applications), and UserForms. 
 The application provides a user-friendly online ordering system for customers, allowing them to browse products, manage their carts, and complete checkout securely. A key 
 feature is a robust membership system offering discounts to incentivize loyalty. The staff interface, implemented using Excel spreadsheets and VBA, leverages UserForms 
